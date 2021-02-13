@@ -1,4 +1,12 @@
-<<<<<<< HEAD
+# Chat Application
+![ChatApp](https://i.postimg.cc/fbpTXC3Z/cappp.png)
+
+![ChatApp](https://i.postimg.cc/y8RfsYFP/Chay.png)
+
+# Live Page
+To view the live page, **[click here](https://jc-chatapp.netlify.app)**\
+And Use de username: guest and password: guest
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +80,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # chat-app
 Chat Application With Chatengine.io
->>>>>>> 00c44a3bdf263b1ac4cd0f71ef06a6f9ecccce8e
